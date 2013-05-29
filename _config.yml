@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://chenjun1119.github.com
+url: http://blog.2jun.net
 author: Jesse
 pygments: true
 safe: true
