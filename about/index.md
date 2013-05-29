@@ -4,21 +4,17 @@ layout: page
 comments: no
 ---
 
-程序猿一头，目前从事IOS系统的相关开发。	
-热爱编程，开源爱好者，喜欢linux，github等。		
-喜欢干净整洁的代码，轻微代码洁癖。  	
-微博控
+80后，UI/UE设计师
+爱生活，爱美食
+Google粉、QQ粉、Apple粉...酷爱各大公司新品
 
 ----
 
 ###联系方式：        
 
-个人邮箱: [ccf.developer@gmail.com](mailto:ccf.developer@gmail.com)     
-新浪微博: [思圃](http://weibo.com/u/1713195262)	 
-github : [webfrogs](https://github.com/webfrogs)        
-豆瓣：[网蛙](http://www.douban.com/people/48235183/)
+个人邮箱: [i@2jun.net](mailto:i@2jun.net)     
 
 ----
 
 
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/1713195262/f78fbcd2/1.png)](http://weibo.com/u/1713195262?s=6uyXnP)
+[![腾讯微博](http://v.t.qq.com/sign/chenjun/d7fd27eba46cb04c24356e42e7ed07b02cfbbf6d/1.jpg)](http://t.qq.com/chenjun)
