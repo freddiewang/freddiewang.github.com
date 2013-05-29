@@ -4,10 +4,8 @@ layout: page
 comments: no
 ---
 
-80后，UI/UE设计师
-
-爱生活，爱美食
-
+80后，UI/UE设计师  
+爱生活，爱美食  
 Google粉、QQ粉、Apple粉...酷爱各大公司新品
 
 ----
