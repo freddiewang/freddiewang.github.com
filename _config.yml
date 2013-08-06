@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://blog.2jun.net
-author: Jesse
+url: http://www.mdxxs.com
+author: Freddie
 safe: true
 pygments: true
 paginate: 16
