@@ -1,1 +1,1 @@
-Freddie's Weblog
+Freddie's blog
